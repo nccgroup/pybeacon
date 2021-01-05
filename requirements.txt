@@ -1,0 +1,2 @@
+M2Crypto==0.35.2
+requests==2.22.0
